@@ -1,0 +1,151 @@
+#wrap {
+    width:100%;
+    height: 100%;
+    padding-top: 60px;
+    background: #6ea7b2;
+}
+#box {
+    width: 1200px;
+    height: 712px;
+    background: #fff;
+    border-radius: 20px;
+    margin-left: 108px;
+    margin-top: 60px;
+}
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+.top {
+    width: 1132px;
+    padding:18px 0px 18px 28px;
+}
+.top li{
+    float: left;
+}
+.logo {
+    margin-right: 14px;
+}
+.miaov {
+    font: 16px/34px "微软雅黑";
+    color: #2c96d0;
+    text-align: center;
+    margin-right: 900px;
+}
+.head {
+    border-right: 1px solid#e4e5e7;
+}
+.downArr {
+    margin: 18px 14px 0px 14px;
+}
+.conf {
+    margin-left: 14px;
+    margin-top: 10px;
+}
+.item {
+    width: 1180px;
+    height: 48px;
+    background: #ecf1f7;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-top: 1px solid#d1d9db;
+    border-bottom: 1px solid#d1d9db ;
+}
+.item li {
+    float: left;
+    border: 1px solid #d1d9db;
+    padding: 10px 14px;
+    border-radius: 3px;
+    background: #fff;
+    font:16px/1 "微软雅黑";
+    color: #000;
+    margin-right: 10px;
+}
+.item li:hover {
+    color: #7ebfe7;
+}
+.item span {
+    display: inline-block;
+    margin-left: 18px;
+}
+.item  .right1{
+    background: #55addb;
+    float: right;
+}
+.con_left {
+    width: 258px;
+    height: 580px;
+    border-right: 2px solid#d1d9db;
+    float: left;
+}
+.con_right {
+    width: 940px;
+    float: left;
+}
+.title {
+    border-bottom:2px solid#e1e9ec ;
+}
+.title li {
+    padding:15px 15px 13px 15px;
+    float: left;
+    font: 16px/20px "微软雅黑";
+    text-align: center;
+    color: #000;
+    border-bottom:2px solid#e1e9ec;
+}
+.title .active {
+    color: #53aae0;
+    border-bottom:2px solid#53aedb ;
+}
+.sort {
+
+}
+.sort li {
+    height: 34px;
+    padding-top: 16px;
+    padding-left: 15px;
+    border-bottom: 1px solid #e2e7ea;
+}
+.chechf {
+    margin-right: 20px;
+}
+.fileS {
+    margin-right: 10px;
+}
+.fileT {
+    display: inline-block;
+    margin-right: 200px;
+}
+.img_m {
+    margin-right: 20px;
+}
+.caidan {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.caidaner {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.caidansan {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.caidansi {
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.cai_img .downA {
+    margin-top: 5px;
+    margin-right:10px;
+}
+.cai_img .fileI {
+    margin-right:10px;
+}
+.cai_img {
+    float: left;
+}
+.cai_text {
+    float: left;
+}

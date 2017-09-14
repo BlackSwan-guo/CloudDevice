@@ -1,0 +1,323 @@
+#wrap {
+    width:100%;
+    height: 100%;
+    padding-top: 60px;
+    background: #6ea7b2;
+}
+#box {
+    width: 1200px;
+    height: 712px;
+    background: #fff;
+    border-radius: 20px;
+    margin-left: 108px;
+    margin-top: 60px;
+}
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+.top {
+    width: 1132px;
+    padding:18px 0px 18px 28px;
+}
+.top li{
+    float: left;
+}
+.top .toptitle1 {
+    padding-left: 14px;
+    padding-right: 20px;
+    border-radius: 20px;
+    font: 14px/40px "微软雅黑";
+    color: #fff;
+    background: #f0898a;
+    margin-right: 15px;
+}
+.top .overtime {
+    margin-top: 9px;
+    margin-right: 10px;
+}
+.top .toptitle2 {
+    padding-left: 14px;
+    padding-right: 20px;
+    border-radius: 20px;
+    font: 14px/40px "微软雅黑";
+    color: #fff;
+    background: #87ce8c;
+    margin-right: 15px;
+}
+.top .del {
+    margin-top: 9px;
+    margin-right: 10px;
+}
+.top .toptitle3 {
+    padding-left: 14px;
+    padding-right: 20px;
+    border-radius: 20px;
+    font: 14px/40px "微软雅黑";
+    color: #fff;
+    background: #f4aa61;
+    margin-right: 214px;
+}
+.top .choose {
+    margin-top: 9px;
+    margin-right: 10px;
+}
+
+.logo {
+    margin-right: 14px;
+}
+.miaov {
+    font: 16px/34px "微软雅黑";
+    color: #2c96d0;
+    text-align: center;
+    margin-right: 90px;
+}
+.head {
+    border-right: 1px solid#e4e5e7;
+}
+.downArr {
+    margin: 18px 14px 0px 14px;
+}
+.conf {
+    margin-left: 14px;
+    margin-top: 10px;
+}
+.item {
+    width: 1180px;
+    height: 48px;
+    background: #ecf1f7;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-top: 1px solid#d1d9db;
+    border-bottom: 1px solid#d1d9db ;
+}
+.item li {
+    float: left;
+    border: 1px solid #d1d9db;
+    padding: 10px 14px;
+    border-radius: 3px;
+    background: #fff;
+    font:16px/1 "微软雅黑";
+    color: #000;
+    margin-right: 10px;
+}
+.item .active {
+    float: left;
+    padding: 10px 14px;
+    border-radius: 3px;
+    background: #fff;
+    font:16px/1 "微软雅黑";
+    margin-right: 10px;
+    color: #52ace1;
+    border: 1px solid#55addb;
+}
+.item span {
+    display: inline-block;
+    margin-left: 18px;
+}
+.item  .right1{
+    float: right;
+}
+.con_left {
+    width: 258px;
+    height: 580px;
+    border-right: 2px solid#d1d9db;
+    float: left;
+}
+.con_right {
+    width: 940px;
+    float: left;
+}
+.content {
+    position: relative;
+}
+.title {
+    border-bottom:2px solid#e1e9ec ;
+}
+.title li {
+    padding:15px 15px 13px 15px;
+    float: left;
+    font: 16px/20px "微软雅黑";
+    text-align: center;
+    color: #000;
+    border-bottom:2px solid#e1e9ec;
+}
+.title .active {
+    color: #53aae0;
+    border-bottom:2px solid#53aedb ;
+}
+.sort {
+    height: 492px;
+    padding-top: 40px;
+    padding-left: 40px;
+    background: #f6f7fb;
+}
+
+.sort li {
+    width: 170px;
+    height: 170px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background: #ebeff0;
+    float: left;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    color: #808893;
+}
+.sort .file{
+    width: 80px;
+    height: 70px;
+    margin-left: 40px;
+    margin-bottom: 15px;
+}
+.sort .ptext {
+    margin-left: 40px;
+    font: 16px/16px "微软雅黑";
+}
+.sort .active {
+    background: #fff;
+    color: #54b1da;
+}
+.ifDel {
+    width:281px;
+    height: 134px;
+    padding-top: 42px;
+    padding-left: 35PX;
+    border: 2px solid#56acdd;
+    border-radius: 10px;
+    position: absolute;
+    top: 270px;
+    left: 342px;
+    background: #fff;
+}
+.ifDel .close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+}
+.ifDel .q {
+    width: 38px;
+    height: 36px;
+    float: left;
+    margin-right: 18PX;
+}
+.ifDel .ifText {
+    width: 200px;
+    float: left;
+}
+.ifDel .confirm {
+    font:16px/16px "微软雅黑";
+    color: #000;
+    margin-bottom: 15px;
+}
+.ifDel .canfind {
+    font:12px/12px "微软雅黑";
+    color: #000;
+    margin-bottom: 30px;
+}
+.queding {
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    background: #55addb;
+    font: 16px/30px "微软雅黑";
+    color: #fff;
+    text-align: center;
+    margin-left: 70px;
+    display: inline-block;
+    margin-right: 24px;
+    margin-left: 70px;
+}
+.quxiao {
+    width: 78px;
+    height: 28px;
+    border-radius: 5px;
+    border:1px solid#59a9dc ;
+    background: #fff;
+    font: 16px/30px "微软雅黑";
+    text-align: center;
+    color: #59a9dc;
+    display: inline-block;
+}
+.deling {
+    width: 226px;
+    height:60px;
+    border: 2px solid#58acdb;
+    border-radius: 5px;
+    position: absolute;
+    top:468px;
+    left: 381px;
+}
+.loding {
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 25px;
+}
+.delText {
+    margin-top: 40px;
+    font: 16px/60px "微软雅黑";
+    color: #000;
+}
+.caidan {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.caidaner {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.caidansan {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.caidansi {
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.cai_img .downA {
+    margin-top: 5px;
+    margin-right:10px;
+}
+.cai_img .fileI {
+    margin-right:10px;
+}
+.cai_img {
+    float: left;
+}
+.cai_text {
+    float: left;
+}
+.cunchu {
+    width:386px ;
+    height: 416px;
+    border-radius: 10px;
+    border: 2px solid#55addd;
+    padding-left: 20px;
+    background: #fff;
+    position: absolute;
+    top: 82px;
+    left: 752px;
+}
+.cunchu .close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+}
+.jichu {
+    margin-bottom: 18px;
+}
+.cun_sel {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.box {
+    width: 358px;
+    height: 238px;
+    border: 1px solid #e5e6e8;
+    margin-bottom: 24px;
+}
+.c_l {
+    margin-left:70px ;
+    margin-right: 5px;
+}
